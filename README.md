@@ -1,5 +1,6 @@
 # Ghosts Reinforcement Learning
  A Reinforcement Learning Approach for the game of Ghosts
+ 
  Main implementation on RL_BuildUP_v2.ipynb
  
 [Click to see the Canva Presentation about the project
